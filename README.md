@@ -20,4 +20,6 @@ update vcenter hosts table for vcenter or esxi_host_ip only.
 python update_vcenter_hosts_table.py
 ```
 ###Logs:
-After execution it will genrate logs in /var/log/vcenter_inventory_dd-mm-yy.logs 
+After execution it will genrate logs in 
+/var/log/vcenter_inventory_dd-mm-yy.logs 
+/var/log/vcenter_host__dd-mm-yy.logs 
