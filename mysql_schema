@@ -1,0 +1,4 @@
+1. one table for vcenter host ip only
+host_ip
+2. one table for vcenter vm info only
+host_ip, vm_name, vm_os, vm_ipv4, vm_ipv6, vm_ips
